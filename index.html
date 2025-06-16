@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Jane Doe - Personal Portfolio</title>
+  <meta name="description" content="Portfolio of Jane Doe, Web Developer and Designer">
+</head>
+
+<body>
+  <!-- Header Section -->
+  <header id="top">
+    <h1>Jane Doe</h1>
+    <p><strong>Web Developer &amp; Designer</strong></p>
+    <nav>
+      <ul>
+        <li><a href="#about">About Me</a></li>
+        <li><a href="#skills">Skills &amp; Experience</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- About Section -->
+    <section id="about">
+      <h2>About Me</h2>
+      <p>
+        Hello! My name is <span style="color:blue;">Jane Doe</span>. I am passionate about <em>web development</em> and
+        <strong>user experience design</strong>.
+      </p>
+      <p>
+        I believe in the power of technology to <b>transform</b> ideas into reality. My journey started with a curiosity
+        for how websites work, and now I enjoy building interactive and accessible digital experiences.
+      </p>
+      <blockquote>
+        "The best way to predict the future is to invent it." – Alan Kay
+      </blockquote>
+    </section>
+
+    <!-- Skills and Experience Section -->
+    <section id="skills">
+      <h2>Skills &amp; Experience</h2>
+      <article>
+        <h3>Technical Skills</h3>
+        <div class="skills-list">
+          <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+          </ul>
+        </div>
+        <h3>Achievements</h3>
+        <ol>
+          <li>Completed 10+ web projects</li>
+          <li>Certified in Responsive Web Design</li>
+          <li>Speaker at Local Tech Meetups</li>
+        </ol>
+        <h3>Key Terms</h3>
+        <dl>
+          <dt>Accessibility</dt>
+          <dd>Ensuring web content is usable by everyone, including people with disabilities.</dd>
+          <dt>SEO</dt>
+          <dd>Search Engine Optimization for better visibility in search results.</dd>
+        </dl>
+      </article>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+      <h2>Projects</h2>
+      <article>
+        <h3>Portfolio Website</h3>
+        <div>
+          <img src="assets/portfolio-screenshot.jpg" alt="Screenshot of Jane's Portfolio Website"
+            title="Jane's Portfolio Website" width="300">
+        </div>
+        <p>
+          This website showcases my work and skills. Check out the <a href="https://github.com/janedoe"
+            target="_blank">source code on GitHub</a>.
+        </p>
+        <h3>Media Showcase</h3>
+        <div>
+          <audio controls>
+            <source src="assets/intro.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+          </audio>
+          <video width="320" height="240" controls>
+            <source src="assets/demo.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+        <h3>Skills Table</h3>
+        <table border="1">
+          <thead>
+            <tr>
+              <th>Skill</th>
+              <th>Level</th>
+              <th>Experience (Years)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>HTML</td>
+              <td>Advanced</td>
+              <td>3</td>
+            </tr>
+            <tr>
+              <td>CSS</td>
+              <td>Intermediate</td>
+              <td>2</td>
+            </tr>
+            <tr>
+              <td>JavaScript</td>
+              <td>Intermediate</td>
+              <td>2</td>
+            </tr>
+          </tbody>
+        </table>
+      </article>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+      <h2>Contact Me</h2>
+      <form action="mailto:jane.doe@example.com" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="4" cols="40" required></textarea><br><br>
+
+        <label for="inquiry">Type of Inquiry:</label>
+        <select id="inquiry" name="inquiry">
+          <option value="project">Project Collaboration</option>
+          <option value="feedback">Feedback</option>
+          <option value="other">Other</option>
+        </select><br><br>
+
+        <input type="submit" value="Send">
+      </form>
+      <p>
+        <a href="#top">Back to Top</a><br>
+        <a href="assets/JaneDoe_Resume.pdf" download>Download My Resume</a>
+      </p>
+    </section>
+
+  </main>
+  <!-- Footer Section -->
+  <footer>
+    <p>&copy; 2025 Jane Doe. All rights reserved.</p>
+  </footer>
+</body>
+
+</html>

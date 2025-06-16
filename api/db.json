@@ -1,0 +1,182 @@
+[
+  {
+    "_id": { "$oid": "6485f2c50370b02a2934d5fc" },
+    "title": "The Hobbit",
+    "thumbnail": "the-hobbit.jpg",
+    "slug": "the-hobbit",
+    "description": "This book is a critical introduction to J.R.R. Tolkien's The Hobbit, but it also advances an argument.",
+    "stars": "5",
+    "category": ["crime", "food"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9aa5" },
+    "title": "Demon Copperhead",
+    "thumbnail": "demon-copperhead.jpg",
+    "slug": "demon-copperhead",
+    "description": "A masterful recasting of David Copperfield, narrated by an Appalachian boy whose wise, unwavering voice.",
+    "stars": "4",
+    "category": ["adventure"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9aa6" },
+    "title": "To Kill a Mockingbird",
+    "thumbnail": "to-kill-a-mockingbird.jpg",
+    "slug": "to-kill-a-mockingbird",
+    "description": "A novel about the serious issues of rape and racial inequality, told through the eyes of a child.",
+    "stars": "5",
+    "category": ["classic", "drama"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9aa7" },
+    "title": "1984",
+    "thumbnail": "1984.jpg",
+    "slug": "1984",
+    "description": "A dystopian novel set in a totalitarian society under constant surveillance.",
+    "stars": "5",
+    "category": ["dystopian", "political"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9aa8" },
+    "title": "Pride and Prejudice",
+    "thumbnail": "pride-and-prejudice.jpg",
+    "slug": "pride-and-prejudice",
+    "description": "A classic romance novel about manners, upbringing, morality, and marriage.",
+    "stars": "4",
+    "category": ["romance", "classic"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9aa9" },
+    "title": "The Great Gatsby",
+    "thumbnail": "the-great-gatsby.jpg",
+    "slug": "the-great-gatsby",
+    "description": "A critique of the American Dream set in the Roaring Twenties.",
+    "stars": "4",
+    "category": ["classic", "tragedy"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9aaa" },
+    "title": "Moby Dick",
+    "thumbnail": "moby-dick.jpg",
+    "slug": "moby-dick",
+    "description": "The narrative of Captain Ahab's obsessive quest to kill the white whale.",
+    "stars": "3",
+    "category": ["adventure", "classic"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9aab" },
+    "title": "War and Peace",
+    "thumbnail": "war-and-peace.jpg",
+    "slug": "war-and-peace",
+    "description": "A sweeping chronicle of Russian society during the Napoleonic Era.",
+    "stars": "5",
+    "category": ["historical", "classic"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9aac" },
+    "title": "The Catcher in the Rye",
+    "thumbnail": "the-catcher-in-the-rye.jpg",
+    "slug": "the-catcher-in-the-rye",
+    "description": "A story about adolescent alienation and loss of innocence.",
+    "stars": "4",
+    "category": ["coming-of-age", "classic"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9aad" },
+    "title": "Brave New World",
+    "thumbnail": "brave-new-world.jpg",
+    "slug": "brave-new-world",
+    "description": "A futuristic society driven by technological advancements and loss of individuality.",
+    "stars": "4",
+    "category": ["dystopian", "science fiction"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9aae" },
+    "title": "The Lord of the Rings",
+    "thumbnail": "the-lord-of-the-rings.jpg",
+    "slug": "the-lord-of-the-rings",
+    "description": "An epic fantasy adventure in Middle-earth.",
+    "stars": "5",
+    "category": ["fantasy", "adventure"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9aaf" },
+    "title": "Jane Eyre",
+    "thumbnail": "jane-eyre.jpg",
+    "slug": "jane-eyre",
+    "description": "A coming-of-age story featuring a strong female protagonist.",
+    "stars": "4",
+    "category": ["romance", "classic"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9ab0" },
+    "title": "The Alchemist",
+    "thumbnail": "the-alchemist.jpg",
+    "slug": "the-alchemist",
+    "description": "A philosophical novel about following your dreams.",
+    "stars": "5",
+    "category": ["philosophy", "adventure"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9ab1" },
+    "title": "The Book Thief",
+    "thumbnail": "the-book-thief.jpg",
+    "slug": "the-book-thief",
+    "description": "A young girl's relationship with books during WWII in Germany.",
+    "stars": "5",
+    "category": ["historical", "drama"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9ab2" },
+    "title": "Crime and Punishment",
+    "thumbnail": "crime-and-punishment.jpg",
+    "slug": "crime-and-punishment",
+    "description": "A psychological drama about a man's moral dilemmas.",
+    "stars": "5",
+    "category": ["crime", "classic"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9ab3" },
+    "title": "The Kite Runner",
+    "thumbnail": "the-kite-runner.jpg",
+    "slug": "the-kite-runner",
+    "description": "A story of friendship and redemption set in Afghanistan.",
+    "stars": "4",
+    "category": ["drama", "historical"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9ab4" },
+    "title": "Animal Farm",
+    "thumbnail": "animal-farm.jpg",
+    "slug": "animal-farm",
+    "description": "A satirical allegory about a group of farm animals.",
+    "stars": "4",
+    "category": ["satire", "political"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9ab5" },
+    "title": "The Road",
+    "thumbnail": "the-road.jpg",
+    "slug": "the-road",
+    "description": "A bleak, post-apocalyptic journey of a father and son.",
+    "stars": "4",
+    "category": ["post-apocalyptic", "drama"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9ab6" },
+    "title": "Wuthering Heights",
+    "thumbnail": "wuthering-heights.jpg",
+    "slug": "wuthering-heights",
+    "description": "A tale of passion and revenge on the Yorkshire moors.",
+    "stars": "4",
+    "category": ["romance", "classic"]
+  },
+  {
+    "_id": { "$oid": "648ada707a15f23fa4ba9ab7" },
+    "title": "Frankenstein",
+    "thumbnail": "frankenstein.jpg",
+    "slug": "frankenstein",
+    "description": "A gothic novel about a scientist who creates life.",
+    "stars": "5",
+    "category": ["gothic", "science fiction"]
+  }
+]
